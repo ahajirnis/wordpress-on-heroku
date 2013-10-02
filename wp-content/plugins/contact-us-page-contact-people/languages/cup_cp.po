@@ -1,0 +1,1502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Us page - Contact people LITE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-06 17:53+0700\n"
+"PO-Revision-Date: 2013-09-06 17:53+0700\n"
+"Last-Translator: Nguyen Tuan <mr.nguyencongtuan@gmail.com>\n"
+"Language-Team: a3rev\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/people-contact-init.php:7
+#: admin/classes/contact-page-panel/class-contact-page-settings-panel.php:99
+msgid "Contact Us Page"
+msgstr ""
+
+#: admin/classes/class-contact-page-panel.php:16
+msgid "Contact Page Successfully saved."
+msgstr ""
+
+#: admin/classes/class-contact-page-panel.php:18
+msgid "Contact Page Successfully reseted."
+msgstr ""
+
+#: admin/classes/class-contact-page-panel.php:27
+#: admin/classes/class-contact-widget-panel.php:27
+msgid "Settings"
+msgstr ""
+
+#: admin/classes/class-contact-page-panel.php:28
+msgid "Location Map"
+msgstr ""
+
+#: admin/classes/class-contact-page-panel.php:29
+msgid "People Contact Forms"
+msgstr ""
+
+#: admin/classes/class-contact-page-panel.php:30
+msgid "Contact Pop-Up Style"
+msgstr ""
+
+#: admin/classes/class-contact-page-panel.php:55
+#: admin/classes/class-contact-widget-panel.php:50
+#: admin/classes/class-grid-view-panel.php:57
+msgid "Save changes"
+msgstr ""
+
+#: admin/classes/class-contact-page-panel.php:56
+#: admin/classes/class-contact-widget-panel.php:51
+#: admin/classes/class-grid-view-panel.php:58
+msgid "Reset Settings"
+msgstr ""
+
+#: admin/classes/class-contact-widget-panel.php:16
+msgid "Contact Widget Successfully saved."
+msgstr ""
+
+#: admin/classes/class-contact-widget-panel.php:18
+msgid "Contact Widget Successfully reseted."
+msgstr ""
+
+#: admin/classes/class-contact-widget-panel.php:28
+msgid "Contact Information"
+msgstr ""
+
+#: admin/classes/class-contact-widget-panel.php:29
+msgid "Email Contact Form"
+msgstr ""
+
+#: admin/classes/class-contact-widget-panel.php:30
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:113
+msgid "Maps Settings"
+msgstr ""
+
+#: admin/classes/class-grid-view-panel.php:16
+msgid "Grid View Settings Successfully saved."
+msgstr ""
+
+#: admin/classes/class-grid-view-panel.php:18
+msgid "Grid View Settings Successfully reseted."
+msgstr ""
+
+#: admin/classes/class-grid-view-panel.php:27
+msgid "Profile Grid Layout"
+msgstr ""
+
+#: admin/classes/class-grid-view-panel.php:28
+msgid "Grid View Styles"
+msgstr ""
+
+#: admin/classes/class-grid-view-panel.php:29
+msgid "Profile Image Style"
+msgstr ""
+
+#: admin/classes/class-grid-view-panel.php:30
+msgid "Grid View Contact Icons"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:49
+#: admin/classes/class-people-category-manager-panel.php:108
+#: admin/classes/class-people-category-manager-panel.php:148
+#: admin/classes/class-people-contact-addnew.php:189
+msgid "Profile Group"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:51
+#: admin/classes/class-people-category-manager-panel.php:167
+msgid "Groups"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:51
+#: admin/classes/class-people-contact-manager-panel.php:31
+msgid "Add New"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:51
+#: admin/classes/class-people-category-manager-panel.php:116
+#: admin/classes/class-people-category-manager-panel.php:152
+#: admin/classes/class-people-contact-addnew.php:73
+#: admin/classes/class-people-contact-manager-panel.php:31
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:63
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:88
+#: admin/classes/contact-page-panel/class-contact-page-settings-panel.php:99
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:61
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:96
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:89
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:113
+msgid "View Docs"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:54
+msgid "Create Groups, assign Profiles to Groups and insert the Group into any Post or Page by Shortcode."
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:59
+#: admin/classes/class-people-category-manager-panel.php:130
+#: admin/classes/class-people-category-manager-panel.php:161
+#: admin/classes/class-people-contact-manager-panel.php:38
+msgid "No"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:60
+#: admin/classes/class-people-category-manager-panel.php:163
+#: admin/classes/class-people-contact-addnew.php:88
+#: admin/classes/class-people-contact-manager-panel.php:40
+msgid "Name"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:61
+msgid "Shortcode"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:62
+#: admin/classes/class-people-category-manager-panel.php:152
+#: admin/classes/class-people-contact-manager-panel.php:31
+msgid "Profiles"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:63
+msgid "Activated"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:81
+#: admin/classes/class-people-category-manager-panel.php:130
+msgid "Yes"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:82
+msgid "View Profiles"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:82
+#: admin/classes/class-people-contact-manager-panel.php:67
+msgid "Edit"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:82
+#: admin/classes/class-people-contact-manager-panel.php:67
+msgid "Delete"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:82
+msgid "Are you sure delete this category?"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:89
+#: admin/classes/class-people-contact-addnew.php:197
+msgid "No Groups"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:105
+#: admin/classes/class-people-contact-addnew.php:36
+msgid "Create"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:106
+msgid "Add New Group"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:112
+msgid "Edit Group"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:113
+#: admin/classes/class-people-contact-addnew.php:66
+msgid "Update"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:125
+msgid "Group Name"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:129
+msgid "Activate Shortcode"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:130
+msgid "Check Yes to add this Group to the list of Group shortcodes that can be inserted in Post or Pages by shortcode. Check No and the Group will not show in the Insert Shortcode drop down list of available Groups."
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:137
+#: admin/classes/class-people-contact-addnew.php:48
+msgid "Cancel"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:155
+msgid "Below are all of the Profiles currently assigned to this Group. Sort Profile order for this Group by drag and drop using the blue up - down arrow at the left of each Profile row."
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:164
+#: admin/classes/class-people-contact-addnew.php:104
+#: admin/classes/class-people-contact-manager-panel.php:41
+msgid "Email"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:165
+#: admin/classes/class-people-contact-addnew.php:108
+#: admin/classes/class-people-contact-manager-panel.php:42
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:101
+msgid "Phone"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:166
+#: admin/classes/class-people-contact-manager-panel.php:43
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:121
+msgid "Location"
+msgstr ""
+
+#: admin/classes/class-people-category-manager-panel.php:173
+msgid "No Profile for This Group"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:37
+msgid "Add New Profile"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:55
+msgid "Edit Profile"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:79
+msgid "Profile Details"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:80
+#: admin/classes/class-people-contact-addnew.php:100
+msgid "&lt;empty&gt; fields don't show on front end."
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:84
+msgid "Title / Position"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:92
+#: admin/classes/class-people-contact-addnew.php:94
+msgid "Profile Image"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:94
+msgid "Image format .jpg, .png"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:99
+msgid "Contact Details"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:112
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:108
+msgid "Fax"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:116
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:115
+msgid "Mobile"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:122
+#: admin/classes/class-people-contact-addnew.php:160
+#: admin/classes/class-people-contact-addnew.php:184
+msgid "Upgrade to"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:122
+#: admin/classes/class-people-contact-addnew.php:160
+msgid "Pro Version"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:122
+#: admin/classes/class-people-contact-addnew.php:160
+#: admin/classes/class-people-contact-addnew.php:184
+msgid "to activate"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:125
+msgid "Website"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:129
+msgid "About"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:137
+msgid "Location Address"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:138
+msgid "&lt;empty&gt; Profile location does not show on the map."
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:142
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:94
+msgid "Address"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:146
+msgid "Latitude"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:150
+msgid "Longitude"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:161
+msgid "3RD Party Contact Form Shortcode for this profile"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:162
+msgid "Add a unique Contact Form for this profile. Enter the Contact Form 7 or Gravity Forms shortcode for that form. 3rd Party Contact Form must be activated in Setting > People Contact Forms."
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:165
+msgid "Enter Form Shortcode"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:184
+msgid "Ultimate Version"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:185
+msgid "Assign Profile to Groups"
+msgstr ""
+
+#: admin/classes/class-people-contact-addnew.php:186
+msgid "Profile is automatically assigned to the Contact Us Page. Use this setting to also assign the profile to one or more Groups."
+msgstr ""
+
+#: admin/classes/class-people-contact-manager-panel.php:17
+msgid "Profile Successfully deleted."
+msgstr ""
+
+#: admin/classes/class-people-contact-manager-panel.php:19
+msgid "Profile Successfully updated."
+msgstr ""
+
+#: admin/classes/class-people-contact-manager-panel.php:21
+msgid "Profile Successfully created."
+msgstr ""
+
+#: admin/classes/class-people-contact-manager-panel.php:67
+msgid "Are you sure delete this profile?"
+msgstr ""
+
+#: admin/classes/class-people-contact-manager-panel.php:74
+msgid "No Profile"
+msgstr ""
+
+#: admin/classes/class-people-contact-settings.php:35
+msgid "Contact Page"
+msgstr ""
+
+#: admin/classes/class-people-contact-settings.php:36
+msgid "Grid View"
+msgstr ""
+
+#: admin/classes/class-people-contact-settings.php:37
+msgid "Contact Widget"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:63
+msgid "Default People Contact Forms"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:64
+msgid "The People contact form set here applies to every profile. Create a unique contact form for a profile by adding a contact form shortcode from Contact Form 7 or Gravity Forms on the Profiles edit page. <strong>Note:</strong> You must have the 3rd Party Contact Form setting enabled here to be able to do that."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:68
+msgid "Default Contact Form"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:70
+msgid " Check to use the plugins default contact pop-up form."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:74
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:111
+msgid "\"From\" Name"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:76
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:113
+msgid "&lt;empty&gt; defaults to Site Title"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:80
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:117
+msgid "\"From\" Email Address"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:82
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:119
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:136
+msgid "&lt;empty&gt; defaults to WordPress admin email address"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:86
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:123
+msgid "Send Copy to Sender"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:88
+msgid "Checked adds opt in/out option to the bottom of the People Contact form Popup."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:93
+msgid "3RD Party Contact Form"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:96
+msgid "3rd Party Contact Form"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:98
+msgid "Check to enable contact form from Gravity Forms or Contact Form 7."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:103
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:105
+msgid "Enter Shortcode from Gavity Forms or Contact Form 7"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:109
+msgid "Custom Form Open Options"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:111
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:112
+msgid "Open contact form on new page"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:111
+msgid "new window"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:111
+msgid "Default"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:112
+msgid "same window"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:113
+msgid "Open contact form by Pop-up"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:116
+msgid "People Contact Form Page"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:117
+msgid "A \"Profile Email Page\" was auto created on activation of the plugin. It contains the shortcode [profile_email_page] and is required to show the contact form for each profile. If it was not or you want to change it, create a new page, add the shortcode and then set it here."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:121
+msgid "Profile Contact Page"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:125
+#: admin/classes/contact-page-panel/class-contact-page-settings-panel.php:107
+msgid "Select Page"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:132
+#: admin/classes/contact-page-panel/class-contact-page-settings-panel.php:119
+msgid "Page contents"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:138
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:142
+msgid "Global Re-Set"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-contact-forms-panel.php:145
+msgid "Check and 'Save Changes' to auto reset all unique profile contact form shortcodes that have been set, to the Global Contact shortcode set on this page."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:73
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:76
+msgid "Location Map Settings Successfully saved."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:88
+msgid "Location Map Settings"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:92
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:116
+msgid "Enable/Disable Map"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:94
+msgid "Check to enable google location map on Contact Us Page."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:99
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:127
+msgid "Zoom Level"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:109
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:137
+msgid "Map Type"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:120
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:148
+msgid "Map Width Type"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:129
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:157
+msgid "Map Width"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:135
+msgid "Map Height"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:141
+msgid "Primary Location Address"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:142
+msgid "Enter a Primary location address in a format that google can find. Example Street Number Street name Suburb, Town, postcode / zip code, Country. The map will open with this location as its center."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-location-map-panel.php:146
+msgid "Center Address"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-settings-panel.php:100
+msgid "A \"Contact Us Page\" was auto created on activation of the plugin. It contains the shortcode [people_contacts] required to show the contact us page. If it was not or you want to change it, create a new page, add the shortcode and then set it here."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-settings-panel.php:103
+msgid "Contact Us"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-settings-panel.php:124
+msgid "House Keeping"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-settings-panel.php:127
+msgid "Clean up on Deletion"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-page-settings-panel.php:131
+msgid "Check this box and if you ever delete this plugin it will completely remove all tables and data it created, leaving no trace it was ever here. If upgrading to the Pro Version this is not recommended."
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:61
+msgid "Email Pop-up Font Styling"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:64
+msgid "Font"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:67
+msgid "Select Font"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:71
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:82
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:94
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:100
+msgid "&lt;empty&gt; to use theme style"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:75
+msgid "Font Size"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:78
+msgid "Select Size"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:86
+msgid "Font Style"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:89
+msgid "Select Style"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:90
+msgid "Normal"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:91
+msgid "Italic"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:92
+msgid "Bold"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:93
+msgid "Bold/Italic"
+msgstr ""
+
+#: admin/classes/contact-page-panel/class-contact-popup-style-panel.php:98
+msgid "Font Colour"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:96
+msgid "Default Email Contact Form"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:99
+msgid "Enable/Disable Contact Form"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:101
+msgid "Check to enable default email contact form after content on widget."
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:107
+msgid "Email Sender"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:108
+msgid "The following options affect the sender (email address and name) used in Contact Us Widget."
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:125
+msgid "Checked adds opt in/out option to the bottom of the Contact Us Widget form."
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:131
+msgid "Email Delivery"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:134
+msgid "Inquiry Email goes to"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:140
+msgid "CC"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:142
+msgid "&lt;empty&gt; defaults to 'no copy sent' or add an email address"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:146
+msgid "Contact Form from another Plugin"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:147
+msgid "Create the widget contact us form by entering a shortcode from any contact form plugin. <strong>Important</strong> - disable the Default Email Contact form setting at top of this page."
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-email-contact-form-panel.php:151
+msgid "Form Shortcode"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:89
+msgid "Add Contact Details"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:90
+msgid "Add contact details to show in the widget, &lt;empty&gt; fields don't show on front end."
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:122
+msgid "Visible Email address"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:129
+msgid "Contact widget content"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:133
+msgid "Content before Map"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:136
+msgid "Content will show above map on widget. Leave &lt;empty&gt; to disable."
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:140
+msgid "Content after Map"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-information-panel.php:143
+msgid "Content will show below map on widget. Leave &lt;empty&gt; to disable."
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:117
+msgid "Check to enable a Google map on the Widget"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:163
+msgid "Map height"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:169
+msgid "Map Callout Text"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-maps-panel.php:171
+msgid "Text or HTML that will be output when you click on the map marker for your location."
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-settings-panel.php:81
+#: widgets/class-people-contact-widgets.php:15
+msgid "Contact Us Widget"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-settings-panel.php:82
+msgid "This plugin includes a Contact Us Widget. Use it to add Business / Organization Details, information and a general Contact Us form to the Contact Us Page sidebar. All of the Widget settings are here on the Contact Widget tab. Use the plugins built in Contact Form or add a custom form by shortcode from a Contact Form plugin of your choice."
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-settings-panel.php:83
+#: classes/class-people-contact-functions.php:278
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: admin/classes/contact-widget-panel/class-contact-widget-settings-panel.php:84
+msgid "We recommend that you create a new sidebar and assign it to the Contact Us Page. If you do you can then add the Contact Widget to that sidebar and it will only show on the Contact Us page. We recommend you install this plugin <a href=\"http://wordpress.org/plugins/woosidebars/\" target=\"_blank\">WooSidebars</a> and use it to create the custom sidebar."
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:22
+#: classes/class-people-contact.php:282
+#: classes/class-people-contact.php:473
+msgid "Click Here"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:24
+msgid "Visit Website"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:63
+msgid "Upload Custom Default Profile Image"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:64
+msgid "Upload custom 'No Image' image, .jpg or.png format."
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:67
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:69
+msgid "Default Profile Image"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:74
+msgid "Upload Custom Contact Icons"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:75
+msgid "Delete default icons. Upload custom icons, transparent .png format, 16px by 16px recommended size."
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:78
+msgid "Phone icon"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:80
+msgid "Icon Phone"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:84
+msgid "Fax icon"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:86
+msgid "Icon Fax"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:90
+msgid "Mobile icon"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:92
+msgid "Icon Mobile"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:96
+msgid "Email icon"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:98
+msgid "Icon Email"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:102
+msgid "Email Link Text"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:104
+msgid "Set hyperlink text that shows to the right of the Email icon."
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:108
+msgid "Website icon"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:110
+msgid "Icon Website"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:114
+msgid "Website Link Text"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-icon-panel.php:116
+msgid "Set hyperlink text that shows to the right of the Website icon."
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:67
+msgid "Presentation Style"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:70
+msgid "Rounded Border"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:71
+msgid "Square Border"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:72
+msgid "Flat Image"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:78
+msgid "Custom Styling"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:81
+msgid "Image Background Colour"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:83
+msgid "Shows in Image Padding area or if image is transparent. Default"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:88
+msgid "Image Padding"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:90
+msgid "Overall size of image reduced by the size of padding set here."
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:95
+msgid "Image Border weight"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:113
+msgid "Image Border style"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:132
+msgid "Image Border colour"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:140
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:156
+msgid "Enable/Disable Shadow"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:142
+msgid "Check to enable Image shadow effect."
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-image-style-panel.php:147
+msgid "Image shadow colour"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:17
+msgid "Team Contacts"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:90
+msgid "Grid View Layout"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:93
+msgid "Grid View Title"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:99
+#: shortcodes/class-people-contact-shortcodes.php:124
+msgid "Grid View Column"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:103
+#: shortcodes/class-people-contact-shortcodes.php:129
+msgid "column"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:113
+msgid "Profile Image Position"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:115
+msgid "Image Top - Content Bottom"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:116
+msgid "Image Left - Content Right"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:117
+msgid "Content Left - Image Right"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:121
+msgid "Thumbnail Image Wide"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:131
+msgid "Fix Image Height"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:133
+msgid "Check to activate. Wide of image auto scaled to original proportion of tall."
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:137
+msgid "Image Fixed Height in Grid View"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:139
+msgid "Max height of image. Example set 200px and will fix image container at 200px with image aligned to the top. Default"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:143
+msgid "Show Profile Title Position"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:146
+msgid "Above the image"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-layout-panel.php:147
+msgid "Below the image"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:66
+msgid "Create custom Style for People Grid View display on Contact Us page and profile inserted by shortcode on posts and pages."
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:71
+msgid "Grid View content padding top/bottom"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:78
+msgid "Grid View content padding left/right"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:85
+msgid "Grid View background Colour"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:87
+msgid "Grid View body background colour. Default "
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:93
+msgid "Grid View border weight"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:111
+msgid "Grid View border style"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:130
+msgid "Grid View border colour"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:138
+msgid "Grid View Border radius"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:151
+msgid "Create rounded corner style, Square is Default"
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:158
+msgid "Check to enable Grid View shadow effect."
+msgstr ""
+
+#: admin/classes/grid-view-panel/class-grid-view-style-panel.php:163
+msgid "Grid View shadow colour"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:41
+#: classes/class-people-contact-functions.php:117
+msgid "Thanks for your contact - we'll be in touch with you as soon as possible!"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:55
+#: classes/class-people-contact-functions.php:149
+msgid "[Copy]:"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:63
+msgid "Profile Name"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:69
+msgid "Contact Name"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:75
+msgid "Contact Email Address"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:81
+msgid "Contact Phone"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:86
+#: classes/class-people-contact-functions.php:169
+#: classes/class-people-contact.php:152
+#: widgets/class-people-contact-widgets.php:404
+msgid "Message"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:163
+msgid "Email Address"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:227
+msgid "Arial"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:228
+msgid "Verdana"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:229
+msgid "Trebuchet"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:230
+msgid "Georgia"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:231
+msgid "Times New Roman"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:232
+msgid "Tahoma"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:233
+msgid "Palatino"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:234
+msgid "Helvetica*"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:235
+msgid "Calibri*"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:236
+msgid "Myriad Pro*"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:237
+msgid "Lucida"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:238
+msgid "Arial Black"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:239
+msgid "Gill Sans*"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:240
+msgid "Geneva*"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:241
+msgid "Impact"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:242
+msgid "Courier"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:243
+msgid "Century Gothic"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:280
+msgid "Contact Page Widgets area."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:292
+msgid "Upgrade available for Extra Functionality"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:293
+msgid "<strong>NOTE:</strong> All the functions inside the Yellow border are extra functionality that is only available by upgrading to one of 2 fully supported Pro Version plugins"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:294
+msgid "Contact Us Page - Contact People Pro"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:295
+msgid "Pro Version Features"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:298
+msgid "Profile Contact Grid WYSIWYG Style & Layout editor."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:299
+msgid "Upload custom icons - 'No Image' and contact icons."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:300
+msgid "Profile Short Description feature."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:301
+msgid "Individual Profile Contact Profile Shortcode feature."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:302
+msgid "Create custom contact form for Profiles."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:303
+msgid "Integration with Contact Form 7 & Gravity Forms."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:304
+msgid "Add unique contact forms for individual profiles."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:307
+msgid "Contact People Ultimate"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:308
+msgid "Ultimate Version Features"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:311
+msgid "Includes all Contact Us Page Pro features plus."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:312
+msgid "Groups - Create groups and assign Profiles to groups."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:313
+msgid "Add Groups to posts and page via shortcode."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:314
+msgid "Show Group with or without Google map."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:315
+msgid "Set Group Column layout display."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:316
+msgid "Show or don't show Group title."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:317
+msgid "Sort Profile Order within groups."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:318
+msgid "Show multiple groups on the same page."
+msgstr ""
+
+#: classes/class-people-contact-functions.php:321
+msgid "View this plugins"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:321
+msgid "documentation"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:322
+msgid "Visit this plugins"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:322
+msgid "support forum"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:323
+msgid "More FREE a3rev WordPress plugins"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:326
+msgid "WordPress Email Template"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:327
+msgid "Page View Count"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:336
+#: classes/class-people-contact-functions.php:342
+msgid "Upgrading to the"
+msgstr ""
+
+#: classes/class-people-contact-functions.php:336
+#: classes/class-people-contact-functions.php:342
+msgid "activates this shortcode feature as well."
+msgstr ""
+
+#: classes/class-people-contact-hook.php:216
+msgid "Documentation"
+msgstr ""
+
+#: classes/class-people-contact-hook.php:217
+msgid "Support"
+msgstr ""
+
+#: classes/class-people-contact.php:44
+msgid "from"
+msgstr ""
+
+#: classes/class-people-contact.php:46
+msgid "Contact from"
+msgstr ""
+
+#: classes/class-people-contact.php:120
+msgid "This email will be delivered to"
+msgstr ""
+
+#: classes/class-people-contact.php:138
+msgid "E-mail"
+msgstr ""
+
+#: classes/class-people-contact.php:147
+msgid "Subject"
+msgstr ""
+
+#: classes/class-people-contact.php:156
+msgid "Send"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:34
+msgid "Insert shortcode"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:34
+msgid "Contact"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:73
+msgid "Insert Single Profile"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:75
+msgid "Select people"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:78
+#: shortcodes/class-people-contact-shortcodes.php:114
+#: shortcodes/class-people-contact-shortcodes.php:127
+msgid "Please select..."
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:90
+msgid "Alignment"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:90
+msgid "None"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:90
+msgid "Left - wrap"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:90
+msgid "Left - no wrap"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:90
+msgid "Center"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:90
+msgid "Right - wrap"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:90
+msgid "Right - no wrap"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:90
+msgid "Horizontal aliginment of grid item"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:91
+msgid "Box width"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:92
+msgid "Padding"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:93
+msgid "Above"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:94
+msgid "Below"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:95
+msgid "Left"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:96
+msgid "Right"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:102
+#: shortcodes/class-people-contact-shortcodes.php:141
+msgid "Insert Shortcode"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:109
+msgid "Insert Group"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:111
+msgid "Select Group"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:132
+msgid "Empty to use global settings."
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:134
+msgid "Check to enable google location map on this Group Page."
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:136
+msgid "Enable/Disable"
+msgstr ""
+
+#: shortcodes/class-people-contact-shortcodes.php:136
+msgid "Check to show group title above Profiles."
+msgstr ""
+
+#: uploader/class-uploader.php:17
+msgid "People Contact Internal Container"
+msgstr ""
+
+#: uploader/class-uploader.php:72
+#: uploader/class-uploader.php:121
+msgid "Upload"
+msgstr ""
+
+#: uploader/class-uploader.php:77
+#: uploader/class-uploader.php:126
+msgid "Remove"
+msgstr ""
+
+#: uploader/class-uploader.php:92
+#: uploader/class-uploader.php:141
+msgid "View File"
+msgstr ""
+
+#: uploader/class-uploader.php:157
+msgid "Use this Image"
+msgstr ""
+
+#: uploader/class-uploader.php:158
+msgid "Use as"
+msgstr ""
+
+#: uploader/class-uploader.php:165
+msgid "Previously Uploaded"
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:14
+msgid "Use this widget to add Business / Organization details, contact details, information, location map and a general contact us form as a widget."
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:207
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:215
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:218
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:226
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:236
+msgid "Contact Form Submission from"
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:268
+msgid "You forgot to enter your"
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:275
+msgid "You entered an invalid"
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:286
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:328
+msgid "Your email was successfully sent."
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:342
+msgid "Phone:"
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:347
+msgid "Fax:"
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:352
+msgid "Mobile:"
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:357
+msgid "Email:"
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:379
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: widgets/class-people-contact-widgets.php:447
+msgid "Title:"
+msgstr ""
+
